@@ -113,5 +113,5 @@ cloud_ml/
 
 ## **Conclusion**  
 
-The **Smart Irrigation System** combines IoT, cloud computing, and ML for efficient water management in agriculture. Its real-time analytics and remote control capabilities make it a scalable and sustainable solution for modern farming practices.  
+The **Smart Irrigation System** combines IoT, cloud computing, and ML for efficient water management in agriculture. Its real-time analytics and remote control capabilities make it a scalable,efficient and sustainable solution for modern farming practices.  
 
